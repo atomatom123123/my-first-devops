@@ -3,8 +3,8 @@ team:
   level: 1
 members:
   - role: Developer
-  name: ไกรรัช ท้าวแก้ว
+    name: ไกรรัช ท้าวแก้ว
   - role: Developer
-  name: ชณกฤดิ ช่วงธิญวัฒน์
+    name: ชณกฤดิ ช่วงธิญวัฒน์
   - role: Operations
-  name: อนุสรณ์ น้ำรักษ์
+    name: อนุสรณ์ น้ำรักษ์
