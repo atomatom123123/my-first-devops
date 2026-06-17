@@ -1,0 +1,10 @@
+team:
+name: IT-Partner
+level: 1
+members:
+- role: Developer
+name: ไกรรัช ท้าวแก้ว
+- role: Developer
+name: ชณกฤดิ ช่วงธิญวัฒน์
+- role: Operations
+name: อนุสรณ์ น้ำรักษ์
